@@ -6,7 +6,3 @@ SELECT * FROM employees;
 
 -- 지역테이블 : 지역번호, 주소, 우편번호, 도시, 상세주소, 국가번호
 SELECT * FROM locations;
-
--- 1. 사원 테이블의 구조를 검색
-
--- 5시 7분 시작합니다.
